@@ -1,0 +1,136 @@
+{
+  "frames": [
+    {
+      "name": "bigTree",
+      "filename": "bigTree",
+      "frame": {
+        "x": 961,
+        "y": 0,
+        "w": 65,
+        "h": 155
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 155
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 155
+      }
+    },
+    {
+      "name": "fatTree",
+      "filename": "fatTree",
+      "frame": {
+        "x": 930,
+        "y": 900,
+        "w": 93,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 93,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 93,
+        "h": 122
+      }
+    },
+    {
+      "name": "wTree",
+      "filename": "wTree",
+      "frame": {
+        "x": 864,
+        "y": 929,
+        "w": 65,
+        "h": 94
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 95
+      }
+    },
+    {
+      "name": "bush",
+      "filename": "bush",
+      "frame": {
+        "x": 64,
+        "y": 992,
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "name": "mudd",
+      "filename": "mudd",
+      "frame": {
+        "x": 96,
+        "y": 832,
+        "w": 31,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "name": "fire",
+      "filename": "fire",
+      "frame": {
+        "x": 480,
+        "y": 225,
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      }
+    }
+  ]
+}
